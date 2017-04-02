@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649512710783",
+    "firebase_url": "https://chat-app-db804.firebaseio.com",
+    "project_id": "chat-app-db804",
+    "storage_bucket": "chat-app-db804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649512710783:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649512710783-mjpvsaojih9nqvcjkvrn8nqnsj3fakq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "062c3664d3a7fc1db778fc442a7bcc5c5b697230"
+          }
+        },
+        {
+          "client_id": "649512710783-h6vb2on6jp88ml63k3mfo6bnkr3q6apt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1M4wWiYHVAHV_k2DQkfBY4K6j82AvW-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649512710783-h6vb2on6jp88ml63k3mfo6bnkr3q6apt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
